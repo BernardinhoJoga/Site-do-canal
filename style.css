@@ -1,0 +1,18 @@
+p {
+  font-size: 18px;
+  text-align: right;
+}
+.lista {
+  align-items: right;
+  font-family: 'Kurokane';
+}
+.titulo {
+  text-align: center;
+  font-family: "BPimperial";
+  font-size: 50px;
+}
+.paragrafo {
+  font-family: 'Kurokane';
+  font-size: 20px;
+  text-align: justify;
+}
